@@ -36,14 +36,14 @@ pip3 install requirements.txt
 
 The tool is interactive. It will request your OOB server address upon execution to ensure all out-of-band hits are tracked.
 
-python3 api_audit.py -t [https://api.target-system.com](https://api.target-system.com)
+python3 api_audit.py -t https://api.target-system.com
 
 📟 Terminal Output Preview
 
 [!] OWASP-API-Audit Initialized.
 [?] Enter your OOB Server (e.g. xxxxx.oast.fun): 7t2p...oast.fun
 
-[*] Target: [https://api.target-system.com](https://api.target-system.com)
+[*] Target: [https://api.target-system.com]
 [*] OOB: 7t2p...oast.fun
 ----------------------------------------
 [*] Testing SSRF/OOB Parameters...
