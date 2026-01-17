@@ -1,0 +1,16 @@
+{
+  "ssrf_params": [
+    "url", "dest", "redirect", "uri", "path", "continue", "window", "next", 
+    "data", "reference", "site", "html", "val", "validate", "domain", 
+    "callback", "return", "request", "api", "feed", "host", "to", "out", 
+    "view", "dir", "show", "navigation", "open", "file", "document", "folder"
+  ],
+  "host_headers": [
+    "Host", "X-Forwarded-Host", "X-Forwarded-For", "X-Host", 
+    "X-Forwarded-Server", "X-HTTP-Host-Override", "Forwarded", 
+    "X-Original-URL", "X-Rewrite-URL", "X-Forwarded-Proto", "X-Forwarded-Scheme"
+  ],
+  "logic_constants": [
+    "NaN", "Infinity", "-1", "0", "0.000001", "999999999", "null", "undefined"
+  ]
+}
