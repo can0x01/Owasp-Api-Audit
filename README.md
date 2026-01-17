@@ -24,13 +24,13 @@
 
 ```bash
 # Clone the repository
-git clone [https://github.com/can0x01/Owasp-Api-Audit](https://github.com/can0x01/Owasp-Api-Audit)
+git clone https://github.com/can0x01/Owasp-Api-Audit
 
 # Navigate to directory
 cd Owasp-Api-Audit
 
 # Install dependencies
-pip3 install requests
+pip3 install requirements.txt
 
 🚀 Execution
 
