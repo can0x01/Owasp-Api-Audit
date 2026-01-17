@@ -1,4 +1,4 @@
-# OWASP-API-Audit (OAA) 🛡️ 🏹
+# Owasp-Api-Audit (OAA) 🛡️ 🏹
 
 ![License](https://img.shields.io/badge/license-MIT-red.svg)
 ![Python](https://img.shields.io/badge/python-3.x-blue.svg)
